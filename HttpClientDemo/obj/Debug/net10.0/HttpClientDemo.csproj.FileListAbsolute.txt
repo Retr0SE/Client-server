@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Client-serverLab2\HttpClientDemo\bin\Debug\net10.0\HttpClientDemo.exe
+C:\Users\user\Desktop\Client-serverLab2\HttpClientDemo\bin\Debug\net10.0\HttpClientDemo.deps.json
+C:\Users\user\Desktop\Client-serverLab2\HttpClientDemo\bin\Debug\net10.0\HttpClientDemo.runtimeconfig.json
+C:\Users\user\Desktop\Client-serverLab2\HttpClientDemo\bin\Debug\net10.0\HttpClientDemo.dll
+C:\Users\user\Desktop\Client-serverLab2\HttpClientDemo\bin\Debug\net10.0\HttpClientDemo.pdb
+C:\Users\user\Desktop\Client-serverLab2\HttpClientDemo\obj\Debug\net10.0\HttpClientDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Client-serverLab2\HttpClientDemo\obj\Debug\net10.0\HttpClientDemo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Client-serverLab2\HttpClientDemo\obj\Debug\net10.0\HttpClientDemo.AssemblyInfo.cs
+C:\Users\user\Desktop\Client-serverLab2\HttpClientDemo\obj\Debug\net10.0\HttpClientDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Client-serverLab2\HttpClientDemo\obj\Debug\net10.0\HttpClientDemo.dll
+C:\Users\user\Desktop\Client-serverLab2\HttpClientDemo\obj\Debug\net10.0\refint\HttpClientDemo.dll
+C:\Users\user\Desktop\Client-serverLab2\HttpClientDemo\obj\Debug\net10.0\HttpClientDemo.pdb
+C:\Users\user\Desktop\Client-serverLab2\HttpClientDemo\obj\Debug\net10.0\HttpClientDemo.genruntimeconfig.cache
+C:\Users\user\Desktop\Client-serverLab2\HttpClientDemo\obj\Debug\net10.0\ref\HttpClientDemo.dll
